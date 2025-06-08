@@ -10,6 +10,7 @@ We run following commands:
  git config --global user.name "Yaser Mahmood"
  git config --global user.email "mahmood.yaser@gmail.com"
 
+
 On my MacBook,  I have created new directory by this command 'mkdir' named 'test-dir' in Main Mac directroy, in Yaser directory of my Mac And then navigate to that directory and clone it with github https link which I copied from github website.
 
 -HTTPS link can be taking from git hub website by navigating to the directory and then click on code. Then in the code tab click on it and then copy https link like this:
