@@ -3,6 +3,12 @@ Picture travel app
 
 2nd edition
 
+After installation:
+
+Configure your Git username and email using the following commands, replacing Emma's name with your own. These details will be associated with any commits that you create:
+We run following commands:
+ git config --global user.name "Yaser Mahmood"
+ git config --global user.email "mahmood.yaser@gmail.com"
 
 On my MacBook,  I have created new directory by this command 'mkdir' named 'test-dir' in Main Mac directroy, in Yaser directory of my Mac And then navigate to that directory and clone it with github https link which I copied from github website.
 
