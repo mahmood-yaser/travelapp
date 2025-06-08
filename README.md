@@ -3,9 +3,9 @@ Picture travel app
 
 2nd edition
 
-After installation:
+After installation of git on computer:
 
-Configure your Git username and email using the following commands, replacing Emma's name with your own. These details will be associated with any commits that you create:
+Configure your Git username and email using the following commands, replacing with your own. These details will be associated with any commits that you create:
 We run following commands:
  git config --global user.name "Yaser Mahmood"
  git config --global user.email "mahmood.yaser@gmail.com"
