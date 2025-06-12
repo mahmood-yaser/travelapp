@@ -2,9 +2,9 @@
 
 THIS IS ABOUT GIT
 
-
-
 Picture travel app
+
+
 2nd edition
 
 After installation of git on computer:
