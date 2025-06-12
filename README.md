@@ -58,3 +58,5 @@ What I have done is, created new director by this command in my macbook terminal
 
 --------GIT complete code can be checked from this repo : git pull https://github.com/johnthebrit/DevOpsMC.git 
 I have created new directory and then pull the aove repo. Within which there is '> Part02MasterGit  > Script.ps1 ' this file got all the necessory script
+Testing changes on Vs code
+ (Just type it in this readme file and then press save). Then drom left hand nmenu click on source control and then press Commit and then Press commit and push from left hand menu.
