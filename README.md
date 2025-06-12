@@ -1,8 +1,10 @@
 # travelapp
 
 THIS IS ABOUT GIT
-Picture travel app
 
+
+
+Picture travel app
 2nd edition
 
 After installation of git on computer:
@@ -42,3 +44,5 @@ This command 'git commit -m "This is up to date commands for GIT updates to be u
 In the same way we use, this command 'git log --oneline' to check the status of our git. 
 
 check this one as well to learn git: https://git-scm.com/book/en/v2
+
+This is a repo for git: https://github.com/git/git/blob/master/README.md
