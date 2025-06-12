@@ -38,3 +38,5 @@ This command 'git commit -m "This is uptodte commands for GIT updates to be used
 -Older repositories called master and newer called main.
 
 In the same way we use, this command 'git log --oneline' to check the status of our git. 
+
+check this one as well to learn git: https://git-scm.com/book/en/v2
