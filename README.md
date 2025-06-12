@@ -32,7 +32,7 @@ So this command 'git diff README.md' can be used to check chnages in the files.
 
 --This command 'git add README.md' can be used to make changes in the files saved. (We have stagged this file) 
 
-This command 'git commit -m "This is uptodte commands for GIT updates to be used in staging"' can be used to commit 
+This command 'git commit -m "This is up to date commands for GIT updates to be used in staging"' can be used to commit 
 
 -- Use this command, 'git push origin main' or we can use 'git push master main' depends on our github. We need to check in gihub and code section to see which branch is we need to push. This push command is used to push to git hub from our computer.
 -Older repositories called master and newer called main.
