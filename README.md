@@ -59,7 +59,7 @@ What I have done is, created new director by this command in my macbook terminal
 --------GIT complete code can be checked from this repo : git pull https://github.com/johnthebrit/DevOpsMC.git 
 I have created new directory and then pull the aove repo. Within which there is '> Part02MasterGit  > Script.ps1 ' this file got all the necessory script
 Testing changes on Vs code
- (Just type it in this readme file and then press save). Then drom left hand nmenu click on source control and then press Commit and then Press commit and push from left hand menu.
+ (Just type it in this readme file and then press save). Then from left hand nmenu click on source control and then press Commit and then Press commit and push from left hand menu.
 
  test 
- 
+ So , I made changes in text file and then save text file. Then click on 'source control' from left hand menu. Then press commit with commit message on the top of commit button from left hand menu. Then click on Push. Done all this without command from vs code buttons.
