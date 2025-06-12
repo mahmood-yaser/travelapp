@@ -1,4 +1,6 @@
 # travelapp
+
+THIS IS ABOUT GIT
 Picture travel app
 
 2nd edition
