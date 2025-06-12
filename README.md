@@ -54,4 +54,7 @@ What I have done is, created new director by this command in my macbook terminal
 
 ----Then I have run this pulled command to get new repo from github, 'git pull https://github.com/johnthebrit/AzureMasterClass.git'
 
--I can load this and work within git
+-I can load this and work within git to practive
+
+--------GIT complete code can be checked from this repo : git pull https://github.com/johnthebrit/DevOpsMC.git 
+I have created new directory and then pull the aove repo. Within which there is '> Part02MasterGit  > Script.ps1 ' this file got all the necessory script
