@@ -30,7 +30,7 @@ git clone https://github.com/mahmood-yaser/travelapp.git
 
 I have navigated to test-dir by giving this command in my mac terminal 'cd test-dir' and the navigate to the directory by typing this command, 'cd travelapp'. travel app is the name of our repository in git hub.
 
-'git status' can be typed in out terminal by checking if we did any ammendments to the file like this README.md.
+'git status' can be typed in our terminal by checking if we did any ammendments to the file like this README.md.
 
 So this command 'git diff README.md' can be used to check chnages in the files. 
 
