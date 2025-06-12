@@ -46,3 +46,12 @@ In the same way we use, this command 'git log --oneline' to check the status of 
 check this one as well to learn git: https://git-scm.com/book/en/v2
 
 This is a repo for git: https://github.com/git/git/blob/master/README.md
+
+
+JUST TO USE GIT
+
+What I have done is, created new director by this command in my macbook terminal, 'mkdir Programming' , navidate to that directory by this command 'cd Programming' and then run this command 'git init'.
+
+----Then I have run this pulled command to get new repo from github, 'git pull https://github.com/johnthebrit/AzureMasterClass.git'
+
+-I can load this and work within git
